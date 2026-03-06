@@ -18,7 +18,6 @@
 - Drizzle ORM
 - JWT
 - postgres
-- Zustand
 - express-validator
 - TypeScript
 
